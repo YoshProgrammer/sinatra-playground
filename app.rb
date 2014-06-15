@@ -4,9 +4,9 @@ require 'sinatra'
 require 'simple_oauth'
 require 'excon'
 begin
-require 'dotenv'
+require 'dotednv'
 Dotenv.load
-rescue
+rescue LoadError
 end
 
 
