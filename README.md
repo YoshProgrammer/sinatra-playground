@@ -21,4 +21,5 @@ This week we're going to play around with making a web application!
 
 ## Useful stuff
 
+* Getting Started (1-3): https://devcenter.heroku.com/articles/quickstart
 * https://devcenter.heroku.com/articles/rack
